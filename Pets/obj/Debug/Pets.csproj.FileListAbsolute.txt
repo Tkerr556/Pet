@@ -1,0 +1,7 @@
+C:\Users\vikin\source\repos\Pets\Pets\obj\Debug\Pets.csprojAssemblyReference.cache
+C:\Users\vikin\source\repos\Pets\Pets\obj\Debug\Pets.csproj.CoreCompileInputs.cache
+C:\Users\vikin\source\repos\Pets\Pets\bin\Debug\Pets.exe.config
+C:\Users\vikin\source\repos\Pets\Pets\bin\Debug\Pets.exe
+C:\Users\vikin\source\repos\Pets\Pets\bin\Debug\Pets.pdb
+C:\Users\vikin\source\repos\Pets\Pets\obj\Debug\Pets.exe
+C:\Users\vikin\source\repos\Pets\Pets\obj\Debug\Pets.pdb
